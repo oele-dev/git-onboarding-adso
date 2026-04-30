@@ -1,0 +1,31 @@
+name: Validar presentación
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches:
+      - 'presentacion/**'
+
+jobs:
+  validate:
+    name: Validar formato + contenido
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detectar base contra main
+        run: |
+          # Para PRs: comparar contra base. Para push directo: contra main del fork
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git fetch origin ${{ github.base_ref }}
+            echo "BASE=origin/${{ github.base_ref }}" >> $GITHUB_ENV
+          else
+            git fetch origin main || true
+            echo "BASE=origin/main" >> $GITHUB_ENV
+          fi
+
+      - name: Validar presentación
+        run: bash scripts/validate-presentacion.sh "$BASE"
