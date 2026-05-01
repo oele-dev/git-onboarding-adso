@@ -29,4 +29,4 @@ Las APIs y todo lo de front-end y back-end — nunca he tocado eso.
 
 ## Algo en lo que me considero bueno
 
-Soy persistente, no me rindo fácil cuando algo no me sale.
+Soy persistente, ordenado no me rindo fácil cuando algo no me sale.
