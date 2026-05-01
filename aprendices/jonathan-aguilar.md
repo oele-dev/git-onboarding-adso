@@ -12,7 +12,7 @@ Jonathan Aguilar
 
 ## Sobre mí
 
-Tengo 26 años, vivo en Medellin, actualmente estudio Analisis y Desarrollo de Software en el SENA. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol, video juegos y veo series.
+Tengo 26 años, vivo en Medellin, actualmente estudio Analisis y Desarrollo de Software en el SENA. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol, video juegos y cocinar.
 
 ## Lenguajes que conozco
 
