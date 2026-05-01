@@ -25,7 +25,7 @@ Aprender Laravel y React para construir aplicaciones reales. Salir de la formaci
 
 ## Algo que me da miedo del programa
 
-Las APIs y todo lo de back-end — nunca he tocado eso.
+Las APIs y todo lo de front-end y back-end — nunca he tocado eso.
 
 ## Algo en lo que me considero bueno
 
