@@ -12,7 +12,7 @@ Carlos Rodrigo Ortegón Ladino
 
 ## Sobre mí
 
-Tengo 42 años, vivo en Bogotá, estudié en el colegio Salesiano. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol y veo series.
+Tengo 42 años, vivo en Bogotá, estudié en el colegio Gimnasio Los Alerces. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol y veo series.
 
 ## Lenguajes que conozco
 
