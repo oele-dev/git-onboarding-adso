@@ -1,6 +1,6 @@
 # Ejemplo de presentación
 
-> Copia este archivo y renómbralo con TU nombre en kebab-case (ej: `juan-perez.md`).
+> Copia este archivo y renómbralo con TU nombre en kebab-case (ej: `carlos-ortegon.md`).
 
 ## Nombre
 
