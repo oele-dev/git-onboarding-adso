@@ -4,30 +4,30 @@
 
 ## Nombre
 
-Juan Pérez Gómez
+Damian Andres Mejia Novoa 
 
 ## Ficha
 
-3235899
+3235899.
 
 ## Sobre mí
 
-Tengo 22 años, vivo en Cúcuta, estudié en el colegio Salesiano. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol y veo series.
+Tengo 24 años, me apasiona el desarrollo web, la ciber-security y me gustaria ser desarrollador full-stack. Me gusta pasar el tiempo libre leyendo, peliculas y series.
 
 ## Lenguajes que conozco
 
-- HTML / CSS (básico)
-- JavaScript (he hecho un par de páginas web)
-- Python (en colegio hicimos algoritmos)
+- HTML / CSS (He visto y manipulado ciertos comandos)
+- JavaScript (fragmentos pequeños dentro del curso SENA)
+- Python (basico)
 
 ## ¿Qué espero de la formación?
 
-Aprender Laravel y React para construir aplicaciones reales. Salir de la formación con un proyecto en GitHub que pueda mostrar a empresas.
+Aprender Laravel y React para construir aplicaciones reales. Salir de la formación con un proyecto en GitHub que pueda mostrar a empresasy tener una oportunidad de empezar mi carrera como dev junior.
 
 ## Algo que me da miedo del programa
 
-Las APIs y todo lo de back-end — nunca he tocado eso.
+Los frameworks y APIS, no comprendo a totalidad su utilidad 
 
 ## Algo en lo que me considero bueno
 
-Soy persistente, no me rindo fácil cuando algo no me sale.
+Soy persistente, disciplinado y organizado.
