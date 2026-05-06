@@ -12,7 +12,7 @@ Daniela Londoño Echeverri
 
 ## Sobre mí
 
-Tengo 22 años, vivo en Cúcuta, estudié en el colegio Salesiano. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol y veo series.
+Tengo 22 años, vivo en Cúcuta, estudié en el colegio Salesiano. Me apasiona el desarrollo móvil y quiero ser desarrollador full-stack. En mi tiempo libre juego fútbol y veo series
 
 ## Lenguajes que conozco
 
