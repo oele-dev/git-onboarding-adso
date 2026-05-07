@@ -12,7 +12,7 @@ Juan Sebastian Calero
 
 ## Sobre mí
 
-Tengo 28 años, vivo en Medellin, estudié en el colegio JEGA. Me gusta mucho el mundo de las computadoras, en especial el hardware y quiero ser desarrollador full backend. En mi tiempo libre me gusta practicar deportes como el futbol, ver series o anime, aprender diario cosas nuevas.
+Tengo 28 años, vivo en Medellin, estudié en el colegio JEGA. Me gusta mucho el mundo de las computadoras, en especial el hardware y quiero ser desarrollador full backend. En mi tiempo libre me gusta practicar deportes como el futbol, ver series o anime, aprender diario cosas nuevas..
 
 ## Lenguajes que conozco
 
