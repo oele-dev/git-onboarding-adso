@@ -1,0 +1,9 @@
+body {
+  font-family: Arial;
+  transition: 0.3s;
+}
+
+.dark {
+  background-color: #121212;
+  color: white;
+}
