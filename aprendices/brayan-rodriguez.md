@@ -31,3 +31,6 @@ Las APIs y todo lo de back-end — nunca he tocado eso.
 ## Algo en lo que me considero bueno
 
 Soy persistente, no me rindo fácil cuando algo no me sale.
+
+Aprendiendo Git y GitHub
+
